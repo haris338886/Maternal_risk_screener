@@ -75,6 +75,6 @@ if submitted:
             )
 
         st.info(
-            "**Clinical note:** A yellow/red flag suggests the patient may need attention "
+            "**Clinical note:** A yellow/red flag suggests the patient may need "
             "urgent review or referral. Use your clinical judgment."
         )
