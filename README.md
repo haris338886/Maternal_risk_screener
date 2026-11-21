@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Maternal Risk Screener
 
 Rural clinic decision-support tool for early maternal risk screening.
@@ -33,3 +34,7 @@ pytest tests/ -v
 ## Data
 
 UCI Maternal Health Risk (ID=863), 1,013 samples, 6 vitals, 3-class target.
+=======
+# Maternal_risk_screener
+Project
+>>>>>>> c69bf8b3f3b2ebe89060c977d682ef98ad5dc098
